@@ -1,0 +1,9 @@
+api:与后台交互模块文件夹
+common:通用资源文件夹
+components:非路由组件文件夹
+filters:自定义过渡模块接口文件夹
+mock:模拟数据接口文件夹
+pages:路由组件文件夹
+router:路由器文件夹
+store:vuex相关模块文件夹
+assets:静态资源
